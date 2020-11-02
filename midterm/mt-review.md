@@ -28,7 +28,7 @@
 
     <https://java119.tistory.com/55>
 
-2. csv파일의 데이터 내에 ,(마)가 존재하는 경우 :  
+2. csv파일의 데이터 내에 ,(컴마)가 존재하는 경우 :  
     <https://kugancity.tistory.com/entry/sed%EB%A1%9C-%EC%95%88%EC%9D%98-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0>
 
     <https://shawn-choi.tistory.com/4>
